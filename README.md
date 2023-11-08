@@ -18,7 +18,9 @@ The page where the admin manages the list of airlines.
 @@@@@ HOW TO RUN THIS PROJECT @@@@@
 
 1st Step: Extract file
+
 2nd Step: Copy the main project folder
+
 3rd Step: Paste in xampp/htdocs/
 
 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
